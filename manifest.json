@@ -1,0 +1,24 @@
+{
+  "name": "BMS 商标设计方案",
+  "short_name": "BMS商标",
+  "description": "BMS 国际贸易公司 100 个商标设计方案展示",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#1B5E20",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
